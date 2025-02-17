@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @WV7
+- 👋 Hi, I’m @wv7
 - 👀 I’m interested in Python, Java, Javascript, HTML, CSS, and Batch
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ut1
 
